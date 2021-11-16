@@ -1,0 +1,7 @@
+spec:
+  name: compare-test
+  services:
+  - name: compare
+    git:
+      branch: main
+      repo_clone_url: https://github.com/freddierice/compare-test.git

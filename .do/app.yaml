@@ -1,0 +1,6 @@
+name: app-compare
+services:
+- name: compare
+  github:
+    repo: freddierice/compare-test
+    branch: main
